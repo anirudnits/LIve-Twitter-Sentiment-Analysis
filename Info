@@ -1,0 +1,3 @@
+I have used NLTK for the language processing part and trained my classifiers on the movie_reviews corpus that comes with NLTK in python.
+I have made a class of 5 classifiers for better accuracy with each classifier being trained separately, the classifiers used here are Logistic Regression, Naive Bayes, Random Forest, Decision Tree and SVC.
+Tweepy is used to fetch the live tweets, for obvious reasons I have changd my access tokens and consumer keys.
